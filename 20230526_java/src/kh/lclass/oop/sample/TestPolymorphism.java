@@ -22,7 +22,7 @@ public class TestPolymorphism {
 		TestInterface kh = new Kh();
 		Kh kh2 = new Kh();
 		
-		((Kh)kh).khSpecial();
+//		((Kh)kh).khSpecial();
 		
 		TestInterface bit;
 		TestInterface bit2;
